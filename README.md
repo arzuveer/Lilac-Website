@@ -1,7 +1,7 @@
 
 # LILAC WEBSITE
 
-A beauty product website having a navigation bar where you can see a login page services and contact page as well.
+A beauty product website having a navigation as well as a login page , services and contact page as well.
 
 
 ## Prerequisites
